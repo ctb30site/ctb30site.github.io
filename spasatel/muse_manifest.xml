@@ -1,0 +1,123 @@
+<manifest alg="2" build="2015.1.0.342" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive" ftp_hostname="ftp://fanredbk.beget.tech" ftp_rootfolder="/ctb30.ru/public_html/spasatel" exportTarget="FTP" domain="ctb30.ru" resolutions="1x" timestamp="1542779467360">
+  <folder name="css">
+    <file name="site_global.css" crc="4040517287"/>
+    <file name="index.css" crc="436399776" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="409338010" ref="index"/>
+    <file name="museutils.js" crc="4190794036" ref="index"/>
+    <file name="whatinput.js" crc="84559013" ref="index"/>
+    <file name="pie.js" crc="3827607177" ref="index"/>
+    <file name="jquery.watch.js" crc="349565855" ref="index"/>
+    <file name="webpro.js" crc="488283310" ref="index"/>
+    <file name="form_check.php" crc="430210585" ref="index"/>
+    <file name="form_throttle.php" crc="282343929" ref="index"/>
+    <file name="form_process.php" crc="339897355" ref="index"/>
+    <file name="form-u94.php" crc="4009541501" ref="index"/>
+    <file name="musewpslideshow.js" crc="248860441" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="3898476799" ref="index"/>
+    <file name="touchswipe.js" crc="4191887251" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3866264083" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="3792042506" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="3837774061" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="ооо-центр-торгов-и-бизнеса,-г.астрахань---официальный-сайт-favicon.ico" crc="4025705352" ref="index"/>
+    <file name="24242324 - копия-ieu567-fr.png" crc="233640176" ref="index"/>
+    <file name="24242324 - копия.jpg" crc="3866733671" ref="index"/>
+    <file name="u170-grad.png" crc="423157931" ref="index"/>
+    <file name="u558-grad.png" crc="4087569991" ref="index"/>
+    <file name="u264-grad.png" crc="103679988" ref="index"/>
+    <file name="u264-r-grad.png" crc="237904117" ref="index"/>
+    <file name="u243-grad.png" crc="4000264381" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u115.png" crc="4161649619" ref="index"/>
+    <file name="u115-ferr.png" crc="258669679" ref="index"/>
+    <file name="u120.png" crc="246697048" ref="index"/>
+    <file name="u120-ferr.png" crc="466529072" ref="index"/>
+    <file name="u121-17.png" crc="3978392164" ref="index"/>
+    <file name="u121-17-r.png" crc="4242957665" ref="index"/>
+    <file name="u121-17-m.png" crc="100269144" ref="index"/>
+    <file name="u121-17-fs.png" crc="3771165360" ref="index"/>
+    <file name="u123.png" crc="4280360552" ref="index"/>
+    <file name="u123-ferr.png" crc="210624735" ref="index"/>
+    <file name="6c7dc3914c2cebea399af9ce7552e1f8.jpg" crc="467280669" seo="true" ref="index"/>
+    <file name="50206.jpg" crc="446585936" seo="true" ref="index"/>
+    <file name="1360604486_1358964329_uchastniki-elektronnyh-torgov.jpg" crc="3908771225" seo="true" ref="index"/>
+    <file name="gavel-laptop-lawsuit.jpg" crc="3896054360" seo="true" ref="index"/>
+    <file name="gostorgi.jpg" crc="3981601966" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="samol.png" crc="297592839" seo="true" ref="index"/>
+    <file name="u1114-r-grad.png" crc="219230581" ref="index"/>
+    <file name="u1114-m-grad.png" crc="4072542830" ref="index"/>
+    <file name="logo_obl---копия.png" crc="501969820" seo="true" ref="index"/>
+    <file name="фон-u538-fr.jpg" crc="57718941" ref="index"/>
+    <file name="фон-u537-fr.jpg" crc="3929449714" ref="index"/>
+    <file name="фон-iebuttonu515-fr.png" crc="3807283631" ref="index"/>
+    <file name="фон.jpg" crc="3774382376" ref="index"/>
+    <file name="astrahan - копия.jpg" crc="184972399" ref="index"/>
+    <file name="u628-grad.png" crc="4181901444" ref="index"/>
+    <file name="3453 - копия.png" crc="440520898" seo="true" ref="index"/>
+    <file name="3453.png" crc="3972356254" seo="true" ref="index"/>
+    <file name="бокаччо.png" crc="4288483057" seo="true" ref="index"/>
+    <file name="дюма.png" crc="43036144" seo="true" ref="index"/>
+    <file name="ремарк.png" crc="397353125" seo="true" ref="index"/>
+    <file name="рокфеллер.png" crc="350420260" seo="true" ref="index"/>
+    <file name="хайнлайн.png" crc="4060305961" seo="true" ref="index"/>
+    <file name="честер.png" crc="4104458556" seo="true" ref="index"/>
+    <file name="iklimlendirme-satıs-danismanlik.jpg" crc="3975967663" ref="index"/>
+    <file name="u3184-grad.png" crc="290717037" ref="index"/>
+    <file name="фон-u3193-fr.jpg" crc="4051526814" ref="index"/>
+    <file name="111.jpg" crc="275820395" ref="index"/>
+    <file name="333.jpg" crc="190849395" ref="index"/>
+    <file name="222.jpg" crc="308802461" ref="index"/>
+    <file name="ф.jpg" crc="3833534889" ref="index"/>
+    <file name="сы.png" crc="433306208" ref="index"/>
+    <file name="ку.jpg" crc="4272780130" ref="index"/>
+    <file name="ы.jpg" crc="3873166199" ref="index"/>
+    <file name="gg-ieu3497-fr.png" crc="3928447930" ref="index"/>
+    <file name="gg.jpg" crc="4200080583" ref="index"/>
+    <file name="hh-ieu3508-fr.png" crc="4235172972" ref="index"/>
+    <file name="hh.jpg" crc="4067040491" ref="index"/>
+    <file name="jjj.jpg" crc="3874048286" ref="index"/>
+    <file name="gggg-ieu3520-fr.png" crc="397901362" ref="index"/>
+    <file name="gggg.jpg" crc="4156482419" ref="index"/>
+    <file name="kopfrechnen-im-einstellungsgespraech-u1300-fr.png" crc="413600058" ref="index"/>
+    <file name="госзакупки.jpg" crc="4133040321" seo="true" ref="index"/>
+    <file name="астраторг.jpg" crc="79149020" seo="true" ref="index"/>
+    <file name="минэкономастра.jpg" crc="4077130158" ref="index"/>
+    <file name="все - копия (3) - копия.jpg" crc="4067197215" seo="true" ref="index"/>
+    <file name="все - копия (2) - копия.jpg" crc="33888312" seo="true" ref="index"/>
+    <file name="все - копия (5) - копия.jpg" crc="4289504894" seo="true" ref="index"/>
+    <file name="все - копия (2).jpg" crc="267162453" seo="true" ref="index"/>
+    <file name="все - копия (4) - копия.jpg" crc="3919304701" seo="true" ref="index"/>
+    <file name="рус.jpg" crc="4280061355" seo="true" ref="index"/>
+    <file name="торги.jpg" crc="493780529" seo="true" ref="index"/>
+    <file name="фас.jpg" crc="187360335" seo="true" ref="index"/>
+    <file name="без-имени-1.jpg" crc="339455997" ref="index"/>
+    <file name="фон2.jpg" crc="3838875354" ref="index"/>
+  </folder>
+  <file name="index.html" crc="93501163" seo="true" mt="1542779379098" redirect="true"/>
+  <site/>
+  <renditions>
+    <rendition device="desktop">
+      <page name="ООО&quot; Центр торгов и бизнеса&quot;, г.Астрахань - Официальный сайт." filename="index.html" muse_href="page:U68" master="U59">
+        <breakpoint uid="U1740" maxwidth="1200" minwidth="0" squishy="false"/>
+        <anchor name="a1" html_id="a1" muse_href="anchor:U63:U1284" includeInBPs="U1740"/>
+        <anchor name="a2" html_id="a2" muse_href="anchor:U63:U1285" includeInBPs="U1740"/>
+        <anchor name="a3" html_id="a3" muse_href="anchor:U63:U1286" includeInBPs="U1740"/>
+        <anchor name="a4" html_id="a4" muse_href="anchor:U63:U1287" includeInBPs="U1740"/>
+        <anchor name="a5" html_id="a5" muse_href="anchor:U63:U1288" includeInBPs="U1740"/>
+        <anchor name="a6" html_id="a6" muse_href="anchor:U63:U1299" includeInBPs="U1740"/>
+        <anchor name="a7" html_id="a7" muse_href="anchor:U63:U1369" includeInBPs="U1740"/>
+      </page>
+      <masterPage name="Шаблон-A" master="U55" uid="U59">
+        <breakpoint uid="U1742" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+      <masterPage name="None" master="null" uid="U55">
+        <breakpoint uid="U1741" maxwidth="1160" minwidth="0" squishy="false"/>
+      </masterPage>
+    </rendition>
+  </renditions>
+</manifest>
